@@ -3,7 +3,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/test.svg)](https://pkg.go.dev/github.com/libdns/TODO:PROVIDER_NAME)
 
-This package implements the [libdns interfaces](https://github.com/libdns/libdns) for \<PROVIDER\>, allowing you to manage DNS records.
+This package implements the [libdns interfaces](https://github.com/libdns/libdns) for [cPanel API 2](https://api.docs.cpanel.net/), allowing you to manage DNS records.
 
 ## Authenticating
 
